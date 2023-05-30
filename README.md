@@ -1,5 +1,5 @@
 # Fenziie's Pages Site
-(Click)[https://fenziie.github.io/] here to go to the website.
+[Click here to go to the website.](https://fenziie.github.io/)
 
 idk why i'm making this... just want to lol
 
